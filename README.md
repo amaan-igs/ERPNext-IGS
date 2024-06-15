@@ -24,3 +24,6 @@ First, clone this repository:
 ```sh
 git clone https://github.com/amaan-igs/ERPNext-IGS.git
 cd ERPNext-IGS
+
+Then, run the following command to start the containers:
+docker compose -f pwd.yml -d
