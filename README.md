@@ -27,6 +27,7 @@ cd ERPNext-IGS
 
 Then, run the following command to start the containers:
 docker compose -f pwd.yml -d
+docker compose -p pwd -f pwd.yml up -d
 ```
 
 Final Steps
