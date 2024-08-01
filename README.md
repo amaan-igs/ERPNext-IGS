@@ -3,7 +3,7 @@
 [![Build Stable](https://github.com/frappe/frappe_docker/actions/workflows/build_stable.yml/badge.svg)](https://github.com/frappe/frappe_docker/actions/workflows/build_stable.yml)
 [![Build Develop](https://github.com/frappe/frappe_docker/actions/workflows/build_develop.yml/badge.svg)](https://github.com/frappe/frappe_docker/actions/workflows/build_develop.yml)
 
-Welcome to ERPNext-IGS, provided by <a href="https://www.linkedin.com/company/inotech-global-solutions/" target="_blank">Inotech Global Solutions</a> (IGS). This repository contains everything you need to deploy ERPNext and Frappe in containers.
+Welcome to ERPNext-IGS, provided by <a href="https://www.linkedin.com/company/inotech-global-solutions/" target="_blank">Inotech Global Solutions</a> (IGS). This repository contains everything you need to know about ERPNext and Frappe.
  
 ## Getting Started
 
