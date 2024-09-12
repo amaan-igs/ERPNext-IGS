@@ -31,4 +31,4 @@ docker compose -p pwd -f pwd.yml up -d
 ```
 
 Final Steps
-Wait for approximately 5 minutes for the ERPNext site to be created, or check the logs of the create-site container. You can then access ERPNext on port 8080 with the following credentials: username: Administrator, password: admin.
+Wait for approximately 5 minutes for the ERPNext site to be created, or check the logs of the create-site container. You can then access ERPNext on port 8080.
